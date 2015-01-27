@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.alexw.me</string>
+	<string>com.alexw.me.volume</string>
 	<key>connections</key>
 	<dict>
 		<key>28660937-2892-43F4-8181-7231D3400821</key>
